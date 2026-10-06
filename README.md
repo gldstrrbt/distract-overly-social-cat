@@ -1,5 +1,7 @@
 # distract-overly-social-cat
 
+> **Originally built: 2019.** Historical archive. This code reflects the tools, APIs, browser constraints, and coding practices of that period, not my current stack or standards.
+
 ## Update
 Tested loading up a youtube url with selenium and chromedriver/geckodriver. Ended up being too slow. Replaced with an mp3 file containing the audio from the youtube url that was used. Worked quite well, but he ended up ignoring it after some time. Seeing that Navi likes humans quite a lot and Al Jazeera is more or less calming in its presentation, I decided to place a spare monitor out in the kitchen and play Al Jazeera. It's done just the trick! He's been very calm overnight and even in the morning when I wake.
 
